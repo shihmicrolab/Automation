@@ -7,9 +7,9 @@ General Description :
 
 Description of the files : 
 
-- (matGUI code AIMS.zip) 
+- (matGUI code.zip) 
 The main code to run the matGUI program
-system. 
+system.
 
 - (matGUI Tutorial.zip)
 Folder which contains a README file which explains how to operate the
