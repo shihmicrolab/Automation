@@ -30,6 +30,6 @@ DMF Automation System :
 - Function Generator (Agilent 33220A)
 - Amplifier (TREK PZD700A)
 - Power Supply (Agilent E3631A)
-- Pogo pin Board
-- Control Board
+- Pogo pin Board (https://github.com/shihmicrolab/Automation/blob/master/PogoPin.zip)
+- Control Board (https://github.com/shihmicrolab/Automation/blob/master/Control%20Board.rar)
 - Matlab (with toolboxes : instrument control, Arduino support)
