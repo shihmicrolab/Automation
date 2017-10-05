@@ -16,6 +16,12 @@ Folder which contains a README file which explains how to operate the
 matGUI program. It also contains a short video that can be viewed as reference 
 to the README file. 
 
+- (Control Board.rar)
+Folder which contains files for the control board.
+
+- (PogoPin.zip)
+Folder which contains files for the pogo pin board.
+
 Requirements List : 
 
 DMF Automation System : 
